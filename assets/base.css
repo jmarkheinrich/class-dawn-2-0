@@ -1841,6 +1841,7 @@ input[type='checkbox'] {
     padding-top: 2rem;
     padding-bottom: 2rem;
   }
+  
   .header-wrapper:before {
     position: absolute;
     content: "";
