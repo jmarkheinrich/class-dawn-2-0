@@ -1820,6 +1820,7 @@ input[type='checkbox'] {
   display: block;
   position: relative;
   background-color: rgb(var(--color-background));
+  border-top: 8px solid #E8EFFA ;
 }
 
 .header-wrapper--border-bottom {
